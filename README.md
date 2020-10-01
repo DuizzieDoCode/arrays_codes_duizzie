@@ -6,3 +6,4 @@ basically we apply operations on array in this Repo.
 3.Traversal
 4.Finding Maximum
 5.etc
+6.chicken is good for health one should regularly eat it.
